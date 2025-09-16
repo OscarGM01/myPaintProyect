@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <title>Pinturas</title>
+    <link rel="icon" href="LogoCitadel.png" type="png">
+    <link rel="stylesheet" type="text/css" href="myStyles.css">
+</head>
+<body>
+    <div class="headerDiv" id="contenedor" ><h1>Pinturas Citadel</h1> 
+        <img src="LogoCitadelBlanco.png" alt="Logo Citadel Blanco" class="logoWhite" height= 100px;> <br>
+        
+    <button class="buttonInicial" id="coleccion">Mi coleccion</button>
+    <button class="buttonInicial" id="faltantes">Faltantes</button>
+    <button class="buttonInicial" style="font-size:x-large ;" id="allPaints">Todas Las Pinturas</button> <br><br>
+    
+    <select id="miSelector">            
+        <option value="Todas">Todas</option> 
+        <option value="Base">Bases</option>                  
+        <option value="Layer">Layers</option>               
+        <option value="">Shades</option>
+    </select>
+    <input type="text" id="buscador" placeholder="Buscar Pintura"> <button id="buscar">Buscar</button>
+    </div>
+    
+    <ul class="paintList" id="listaPinturas"></ul>
+
+    <script src="myScripts.js"></script>
+</body>
+</html>

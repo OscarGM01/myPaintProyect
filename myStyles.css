@@ -1,0 +1,78 @@
+.headerDiv{
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*background-color: rgb(56, 56, 56);*/
+}
+
+.buttonInicial{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    height: 70px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(191, 203, 214);
+    margin-right: 20px;
+}
+
+.paintList {
+    background-color: rgb(213, 215, 218);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(56, 56, 56);
+    
+}
+
+.paintList li {
+    display: flex;
+    flex-direction: row;        /* contenido apilado verticalmente */
+    align-items: center;           /* centra horizontalmente */
+    text-align: center;            /* centra texto */
+    margin-bottom: 20px;           /* espacio entre ítems */
+    gap: 10px;                     /* espacio entre elementos internos */
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #bbb; /* línea separadora opcional */
+    
+}
+    
+    .logoWhite{
+    margin: 20px;
+}
+
+.imagenLista{
+    position: absolute;
+    display: flex;
+    margin-left: 60%;
+}
+
+.botonLista{
+    border-radius: 10px;
+    border-style: none;
+    position: absolute;
+    margin-left: 85%;
+    font-size: 50px;
+    height: 60px;
+    width: auto;
+}
+.enColeccion{
+    position: absolute;
+    margin-left: 72%;
+}
+
+body{
+    background-color: rgb(56, 56, 56);
+}
+
+
+h1{
+    font-size: 50px;
+    margin-bottom: 1px;
+    height: 50px;
+    color: aliceblue;
+}
+
+h4{
+    position: absolute;
+    margin-left: 45%;
+    font-size: 25px;
+}

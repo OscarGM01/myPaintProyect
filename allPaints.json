@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "nombre": "Abaddon Black",
+            "obtenido": false,
+            "type": "Base",
+            "imagen": "pinturas/AbaddonBlack.png"
+        },
+        {
+            "nombre": "Administratum Grey",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/AdministratumGrey.png"
+        },
+        {
+            "nombre": "Ahriman Blue",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/AhrimanBlues.png"
+        },
+        {
+            "nombre": "Alaitoc Blue",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/AlaitocBlue.png"
+        },
+        {
+            "nombre": "Altdorf Guard Blue",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/AltdorfGuardBlue.png"
+        },
+        {
+            "nombre": "Auric Armour Gold",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/AuricArmourGold.jpeg"
+        },
+        {
+            "nombre": "Averland Sunset",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/AverlandSunset.png"
+        },
+        {
+            "nombre": "Baharroth Blue",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/BaharrothBlue.png"
+        },
+        {
+            "nombre": "Balor Brown",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/BalorBrown.png"
+        },
+        {
+            "nombre": "Balthasar Gold",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/BalthasarGold.jpeg"
+        },
+        {
+            "nombre": "Baneblade Brown",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/BanebladeBrown.png"
+        },
+        {
+            "nombre": "Barak-Nar Burgundy",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/Barak-NarBurgundy.png"
+        },
+        {
+            "nombre": "Bestigor Flesh",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/BestigorFlesh.png"
+        },
+        {
+            "nombre": "Bloodreaver Flesh",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/BloodreaverFlesh.png"
+        },
+        {
+            "nombre": "Blue Horror",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/BlueHorror.png"
+        },
+        {
+            "nombre": "Brass Scorpion",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/BrassScorpion.jpeg"
+        },
+        {
+            "nombre": "Bugsman's Glow",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/Bugsman'sGlow.png"
+        },
+        {
+            "nombre": "Cadian Fleshtone",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/CadianFleshtone.png"
+        },
+        {
+            "nombre": "Caledor Sky",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CaledorSky.png"
+        },
+        {
+            "nombre": "Caledor Sky",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/CaledorSky.png"
+        },
+        {
+            "nombre": "Caliban Green",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CalibanGreen.png"
+        },
+        {
+            "nombre": "Canoptek Alloy",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/CanoptekAlloy.jpeg"
+        },
+        {
+            "nombre": "Castellan Green",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CastellanGreen.png"
+        },
+        {
+            "nombre": "Castellax Bronze",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/CastellaxBronze.jpeg"
+        },
+        {
+            "nombre": "Catachan Fleshtone",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CatachanFleshtone.png"
+        },
+        {
+            "nombre": "Celestra Grey",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CelestraGrey.png"
+        },
+        {
+            "nombre": "Corax White",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CoraxWhite.png"
+        },
+        {
+            "nombre": "Corvus Black",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/CorvusBlack.png"
+        },
+        {
+            "nombre": "Daemonette Hide",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/DaemonetteHide.png"
+        },
+        {
+            "nombre": "Dark Reaper",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DarkReaper.png"
+        },
+        {
+            "nombre": "Dawnstone",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/Dawnstone.png"
+        },
+        {
+            "nombre": "Death Guard Green",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/DeathGuardGreen.png"
+        },
+        {
+            "nombre": "Death Korps Drab",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/DeathKorpsDrab.png"
+        },
+        {
+            "nombre": "Deathclaw Brown",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DeathclawBrown.png"
+        },
+        {
+            "nombre": "Deathworld Forest",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/DeathworldForest.png"
+        },
+        {
+            "nombre": "Dechala Lilac",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DechalaLilac.png"
+        },
+        {
+            "nombre": "Deepkin Flesh",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DeepkinFlesh.png"
+        },
+        {
+            "nombre": "Doombull Brown",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DoombullBrown.png"
+        },
+        {
+            "nombre": "Dorn Yellow",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/DornYellow.png"
+        },
+        {
+            "nombre": "Dryad Barak",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/DryadBarak.png"
+        },
+        {
+            "nombre": "Elysian Green",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/ElysianGreen.png"
+        },
+        {
+            "nombre": "Emperor's Children",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/Emperor'sChildren.png"
+        },
+        {
+            "nombre": "Eshin Grey",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/EshinGrey.png"
+        },
+        {
+            "nombre": "Evil Sunz Scarlet",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/EvilSunzScarlet.png"
+        },
+        {
+            "nombre": "Fenrisian Grey",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/FenrisianGrey.png"
+        },
+        {
+            "nombre": "Fire Dragon Bright",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/FireDragonBright.png"
+        },
+        {
+            "nombre": "Flash Gitz Yellow",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/FlashGitzYellow.png"
+        },
+        {
+            "nombre": "Flayed One Flesh",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/FlayedOneFlesh.png"
+        },
+        {
+            "nombre": "Fulgrim Pink",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/FulgrimPink.png"
+        },
+        {
+            "nombre": "Fulgurite Copper",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/FulguriteCopper.jpeg"
+        },
+        {
+            "nombre": "Gal Vorbak Red",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/GalVorbakRed.png"
+        },
+        {
+            "nombre": "Gauss Blaster Green",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/GaussBlasterGreen.png"
+        },
+        {
+            "nombre": "Gehenna's Gold",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/Gehenna'sGold.jpeg"
+        },
+        {
+            "nombre": "Genestealer Purple",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/GenestealerPurple.png"
+        },
+        {
+            "nombre": "Gorthor Brown",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/GorthorBrown.png"
+        },
+        {
+            "nombre": "Grey knights Steel",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/GreyknightsSteel.jpeg"
+        },
+        {
+            "nombre": "Grey Seer",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/GreySeer.png"
+        },
+        {
+            "nombre": "Hashut Copper",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/HashutCopper.jpeg"
+        },
+        {
+            "nombre": "Hobgrot Hide",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/HobgrotHide.png"
+        },
+        {
+            "nombre": "Hoeth Blue",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/HoethBlue.png"
+        },
+        {
+            "nombre": "Incubi Darkness",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/IncubiDarkness.png"
+        },
+        {
+            "nombre": "Ionrach Skin",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/IonrachSkin.png"
+        },
+        {
+            "nombre": "Iron Hands Steel",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/IronHandsSteel.jpeg"
+        },
+        {
+            "nombre": "Iron Warriors",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/IronWarriors.jpeg"
+        },
+        {
+            "nombre": "Ironbreaker",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/Ironbreaker.jpeg"
+        },
+        {
+            "nombre": "Jokaero Orange",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/JokaeroOrange.png"
+        },
+        {
+            "nombre": "Kabalite Green",
+            "obtenido": true,
+            "type": "Layer",
+            "imagen": "pinturas/KabaliteGreen.png"
+        },
+        {
+            "nombre": "Kakophoni Purple",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/KakophoniPurple.png"
+        },
+        {
+            "nombre": "Kantor Blue",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/KantorBlue.png"
+        },
+        {
+            "nombre": "Karak Stone",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/KarakStone.png"
+        },
+        {
+            "nombre": "Khorne Red",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/KhorneRed.png"
+        },
+        {
+            "nombre": "Kislev Flesh",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/KislevFlesh.png"
+        },
+        {
+            "nombre": "Knight-Questor Flesh",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/Knight-QuestorFlesh.png"
+        },
+        {
+            "nombre": "Krieg Khaki",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/KriegKhaki.png"
+        },
+        {
+            "nombre": "Leadbelcher",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/Leadbelcher.jpeg"
+        },
+        {
+            "nombre": "Liberator Gold",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/LiberatorGold.jpeg"
+        },
+        {
+            "nombre": "Loren Forest",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/LorenForest.png"
+        },
+        {
+            "nombre": "Lothern Blue",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/LothernBlue.png"
+        },
+        {
+            "nombre": "Lugganath Orange",
+            "obtenido": false,
+            "type": "Layer",
+            "imagen": "pinturas/LugganathOrange.png"
+        },
+        {
+            "nombre": "Lupercal Green",
+            "obtenido": true,
+            "type": "Base",
+            "imagen": "pinturas/LupercalGreen.png"
+        }
+    ]
+}

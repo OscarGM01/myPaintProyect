@@ -9,7 +9,7 @@ let input = document.getElementById("buscador");
 
 let archivo="allPaints.json";
 
-//Metodos
+//Metodos ehaads
 
 const mostrarTodas = () => {
     lista.innerHTML = "";
